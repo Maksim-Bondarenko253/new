@@ -1,0 +1,39 @@
+.footer {
+    background: #4A4AFF;
+    margin-top: 80px;
+}
+
+.footer__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 112px 0;
+    min-width: 320px;
+}
+
+.footer__info-line {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+    .footer__info-line p {
+        color: #fff;
+        font-size: 32px;
+        font-weight: 400;
+    }
+
+.footer .logo {
+    font-weight: 700;
+    font-size: 36px;
+    color: #fff;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+.text h2 {
+    font-weight: 700;
+    font-size: 48px;
+    color: #4d4ffa;
+    text-align: center;
+}
+
+.text p {
+    font-weight: 400;
+    font-size: 28px;
+    color: #4042e2;
+    margin-bottom: 78px;
+    margin-top: 65px;
+
+}

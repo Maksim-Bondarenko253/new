@@ -1,0 +1,21 @@
+.about__left-container {
+
+}
+
+.about__subtitle {
+    font-weight: 400;
+font-size: 28px;
+color: #4042e2;
+}
+
+.about__right-container img {
+    height: 391px;
+}
+
+.about__header {
+    font-weight: 700;
+font-size: 48px;
+text-align: center;
+color: #4d4ffa;
+margin-bottom: 63px;
+}
